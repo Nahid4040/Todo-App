@@ -1,0 +1,11 @@
+@media (max-width:768px) {
+  ul li{
+      max-width: 90%;
+  }
+  div.buttons{
+      right: 0;
+  }
+  header input{
+      font-size:18px ;
+  }
+}
